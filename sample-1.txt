@@ -1,0 +1,54 @@
+Type in the first word to use as the key: ghost
+Type in the second word to use as the key: ghoul
+
+Keys: ghost and ghoul
+New Key: npdnf
+[e] encode with this key
+[d] decode with this key
+[q] quit
+e
+Enter what to encode: obscurify
+result: crwqafyjm
+
+Keys: ghost and ghoul
+New Key: npdnf
+[e] encode with this key
+[d] decode with this key
+[q] quit
+d
+Enter what to decode: crwqafyjm
+result: obscurify
+
+Keys: ghost and ghoul
+New Key: npdnf
+[e] encode with this key
+[d] decode with this key
+[q] quit
+e
+Enter what to encode: supercalifragilisticexpialidocious
+result: gktsxqqpwlfqkwrwixwisntwgzyhciweyg
+
+Keys: ghost and ghoul
+New Key: npdnf
+[e] encode with this key
+[d] decode with this key
+[q] quit
+d
+Enter what to decode: gktsxqqpwlfqkwrwixwisntwgzyhciweyg
+result: supercalifragilisticexpialidocious
+
+Keys: ghost and ghoul
+New Key: npdnf
+[e] encode with this key
+[d] decode with this key
+[q] quit
+d
+Enter what to decode: hello
+result: tohxi
+
+Keys: ghost and ghoul
+New Key: npdnf
+[e] encode with this key
+[d] decode with this key
+[q] quit
+q

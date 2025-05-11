@@ -1,0 +1,45 @@
+Type in the first word to use as the key: fgntk
+Type in the second word to use as the key: aaaaa
+
+Keys: fgntk and aaaaa
+New Key: ghoul
+[e] encode with this key
+[d] decode with this key
+[q] quit
+e
+Enter what to encode: hello
+result: omaga
+
+Keys: fgntk and aaaaa
+New Key: ghoul
+[e] encode with this key
+[d] decode with this key
+[q] quit
+e
+Enter what to encode: goodbye
+result: nwdynfm
+
+Keys: fgntk and aaaaa
+New Key: ghoul
+[e] encode with this key
+[d] decode with this key
+[q] quit
+d
+Enter what to decode: omaga
+result: hello
+
+Keys: fgntk and aaaaa
+New Key: ghoul
+[e] encode with this key
+[d] decode with this key
+[q] quit
+d
+Enter what to decode: nwdynfm
+result: goodbye
+
+Keys: fgntk and aaaaa
+New Key: ghoul
+[e] encode with this key
+[d] decode with this key
+[q] quit
+q

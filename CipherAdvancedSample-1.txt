@@ -1,0 +1,20 @@
+`unknownMultiWordScramble` needs to output all possible key-message pairs that can be generated from the given scramble.
+
+Your output does not need to match exactly, but the true phrase which in this case is "themessage" and the true key which is "hey" must be present somewhere in your output.
+In this case, the true sentence could also have been "hey hex sash" if the true key was "theme", so that has to be printed out as well because it's a possibility.   
+
+Overall, just output every sentence that can be made from the scramble and what key was used to make it.
+ 
+	`myCipherAdvanced.unknownMultiWordScramble("bmdujraffm");`
+
+-----output is below this line------
+message        key                 
+
+aillidzebu     adriana             
+illarmhens     sartre              
+ayesunbern     anybody             
+waynamhath     elegies             
+themessage     hey                 
+ibexrigant     skywriter           
+ibexrigant     skywriters          
+heyhexsash     theme    
